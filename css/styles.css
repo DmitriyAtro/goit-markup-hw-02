@@ -29,7 +29,7 @@ ul {
 .page-header .logo-part {
   text-decoration: none;
   font-family: Raleway;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.9;
   letter-spacing: 0.03em;
@@ -84,7 +84,7 @@ ul {
 /* Sections */
 .section-title {
   color: var(--title-text-color);
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
@@ -94,7 +94,7 @@ ul {
 /* Features */
 .feature-list .title {
   color: var(--title-text-color);
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
@@ -129,7 +129,7 @@ ul {
   color: var(--title-text-color);
   background-color: var(--primary-bg-color);
   font-family: Roboto;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
   display: flex;
@@ -174,7 +174,7 @@ ul {
 .page-footer .logo-part {
   font-family: Raleway;
   text-decoration: none;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -203,7 +203,7 @@ ul {
 /* Our projects */
 .project-list .title {
   color: var(--title-text-color);
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
