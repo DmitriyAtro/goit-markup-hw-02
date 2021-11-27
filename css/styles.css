@@ -41,7 +41,7 @@ ul {
   color: #000000;
 }
 /* Site nav */
-.site-nav .link {
+.site-nav a {
   text-decoration: none;
   color: var(--title-text-color);
   font-weight: 500;
@@ -49,8 +49,9 @@ ul {
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
-.site-nav .link:hover,
-.site-nav .link:focus {
+.site-nav a:hover,
+.site-nav a:focus,
+.site-nav .active {
   color: var(--accent-color);
 }
 /* Auth nav */
@@ -209,7 +210,11 @@ ul {
   letter-spacing: 0.06em;
 }
 .project-list .text {
+  color: var(--primary-text-color);
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
+}
+.project-list .link {
+  text-decoration: none;
 }
